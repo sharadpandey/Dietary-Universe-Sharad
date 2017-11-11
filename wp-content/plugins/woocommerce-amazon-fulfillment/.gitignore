@@ -1,0 +1,33 @@
+# SYSTEM AND IDE FILES
+*~*
+.idea
+.project
+.settings
+.buildpath
+.DS_Store
+.listing
+.htaccess*
+*.swp
+*.map
+*.sh
+*.editorconfig
+*.bowerrc
+*.jshintrc
+Thumbs.db
+zx*
+
+# DEPENDENCIES
+composer.lock
+node_modules
+vendor
+
+# CACHE AND LOG FILES
+.cache
+*.bak
+*.log
+*.tmp
+*_backup
+*logs*
+log.txt
+debug.log
+wp-content/debug.log

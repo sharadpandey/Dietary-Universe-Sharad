@@ -1,0 +1,66 @@
+11-01-2017 @ 04:40:59 - WC_Amazon_Payments_Advanced_API::request - GET: https://mws.amazonservices.com/OffAmazonPayments_Sandbox/2013-01-01/?AWSAccessKeyId=AKIAIX7VUQHLO6V7N35Q&Action=GetOrderReferenceDetails&AmazonOrderReferenceId=S00-0000000-0000000&SellerId=A3C6Z36G5KMA1U&SignatureMethod=HmacSHA256&SignatureVersion=2&Timestamp=2017-11-01T04%3A40%3A59Z&Signature=27f2yAZQKb%2Bq%2FXAdFo4anHnGawdheW%2BN8oFXW9Tk%2B%2F8%3D
+11-01-2017 @ 04:41:00 - WC_Amazon_Payments_Advanced_API::request - Response: <?xml version="1.0"?>
+<ErrorResponse xmlns="http://mws.amazonservices.com/schema/OffAmazonPayments/2013-01-01">
+  <Error>
+    <Type>Sender</Type>
+    <Code>InvalidOrderReferenceId</Code>
+    <Message>The OrderReferenceId S00-0000000-0000000 is invalid.</Message>
+  </Error>
+  <RequestId>da42ea98-fe58-4615-8877-5df99cecaea1</RequestId>
+</ErrorResponse>
+
+11-01-2017 @ 06:12:12 - WC_Amazon_Payments_Advanced_API::request - GET: https://mws.amazonservices.com/OffAmazonPayments_Sandbox/2013-01-01/?AWSAccessKeyId=AKIAIX7VUQHLO6V7N35Q&Action=GetOrderReferenceDetails&AmazonOrderReferenceId=S00-0000000-0000000&SellerId=A3C6Z36G5KMA1U&SignatureMethod=HmacSHA256&SignatureVersion=2&Timestamp=2017-11-01T06%3A12%3A12Z&Signature=zAErgrpoLLHzvfcMr93%2FZd91qCRtzvl0bwiSSac72ws%3D
+11-01-2017 @ 06:12:12 - WC_Amazon_Payments_Advanced_API::request - Response: <?xml version="1.0"?>
+<ErrorResponse xmlns="http://mws.amazonservices.com/schema/OffAmazonPayments/2013-01-01">
+  <Error>
+    <Type>Sender</Type>
+    <Code>InvalidOrderReferenceId</Code>
+    <Message>The OrderReferenceId S00-0000000-0000000 is invalid.</Message>
+  </Error>
+  <RequestId>5e5b9c79-6d76-4409-ac5a-086a9a654636</RequestId>
+</ErrorResponse>
+
+11-01-2017 @ 06:55:04 - WC_Amazon_Payments_Advanced_API::request - GET: https://mws.amazonservices.com/OffAmazonPayments_Sandbox/2013-01-01/?AWSAccessKeyId=AKIAIX7VUQHLO6V7N35Q&Action=GetOrderReferenceDetails&AmazonOrderReferenceId=S00-0000000-0000000&SellerId=A3C6Z36G5KMA1U&SignatureMethod=HmacSHA256&SignatureVersion=2&Timestamp=2017-11-01T06%3A55%3A04Z&Signature=mzUuS9Lz0h0wywVMce1eVx%2B8ED2ND9HfUVQ6l97h9yA%3D
+11-01-2017 @ 06:55:05 - WC_Amazon_Payments_Advanced_API::request - Response: <?xml version="1.0"?>
+<ErrorResponse xmlns="http://mws.amazonservices.com/schema/OffAmazonPayments/2013-01-01">
+  <Error>
+    <Type>Sender</Type>
+    <Code>InvalidOrderReferenceId</Code>
+    <Message>The OrderReferenceId S00-0000000-0000000 is invalid.</Message>
+  </Error>
+  <RequestId>b77d1c60-e56a-4812-a148-4547674e7c90</RequestId>
+</ErrorResponse>
+
+11-01-2017 @ 07:29:34 - WC_Amazon_Payments_Advanced_API::request - GET: https://mws.amazonservices.com/OffAmazonPayments_Sandbox/2013-01-01/?AWSAccessKeyId=AKIAIX7VUQHLO6V7N35Q&Action=GetOrderReferenceDetails&AmazonOrderReferenceId=S00-0000000-0000000&SellerId=A3C6Z36G5KMA1U&SignatureMethod=HmacSHA256&SignatureVersion=2&Timestamp=2017-11-01T07%3A29%3A34Z&Signature=L%2B%2BOemF8M8YyZih3cY1Zy3ETOtKpFDdwIRiyu1UBVGY%3D
+11-01-2017 @ 07:29:35 - WC_Amazon_Payments_Advanced_API::request - Response: <?xml version="1.0"?>
+<ErrorResponse xmlns="http://mws.amazonservices.com/schema/OffAmazonPayments/2013-01-01">
+  <Error>
+    <Type>Sender</Type>
+    <Code>InvalidOrderReferenceId</Code>
+    <Message>The OrderReferenceId S00-0000000-0000000 is invalid.</Message>
+  </Error>
+  <RequestId>f20c526c-850b-442a-9407-3e87930c75aa</RequestId>
+</ErrorResponse>
+
+11-01-2017 @ 07:37:21 - WC_Amazon_Payments_Advanced_API::request - GET: https://mws.amazonservices.com/OffAmazonPayments_Sandbox/2013-01-01/?AWSAccessKeyId=AKIAIX7VUQHLO6V7N35Q&Action=GetOrderReferenceDetails&AmazonOrderReferenceId=S00-0000000-0000000&SellerId=A3C6Z36G5KMA1U&SignatureMethod=HmacSHA256&SignatureVersion=2&Timestamp=2017-11-01T07%3A37%3A21Z&Signature=Z9qHF2qabMTnhlbkpVaw5K16vg1wT4z86UBIJTHx%2Bj0%3D
+11-01-2017 @ 07:37:22 - WC_Amazon_Payments_Advanced_API::request - Response: <?xml version="1.0"?>
+<ErrorResponse xmlns="http://mws.amazonservices.com/schema/OffAmazonPayments/2013-01-01">
+  <Error>
+    <Type>Sender</Type>
+    <Code>InvalidOrderReferenceId</Code>
+    <Message>The OrderReferenceId S00-0000000-0000000 is invalid.</Message>
+  </Error>
+  <RequestId>0b5ad137-a4c3-47da-93ff-f4ed53ddffe8</RequestId>
+</ErrorResponse>
+
+11-02-2017 @ 05:13:49 - WC_Amazon_Payments_Advanced_API::request - GET: https://mws.amazonservices.com/OffAmazonPayments_Sandbox/2013-01-01/?AWSAccessKeyId=AKIAIX7VUQHLO6V7N35Q&Action=GetOrderReferenceDetails&AmazonOrderReferenceId=S00-0000000-0000000&SellerId=A3C6Z36G5KMA1U&SignatureMethod=HmacSHA256&SignatureVersion=2&Timestamp=2017-11-02T05%3A13%3A49Z&Signature=0JbcONiY0tn%2FolWCLY1jmKqYtvqlT%2FoUol8LZ6B%2FLF4%3D
+11-02-2017 @ 05:13:50 - WC_Amazon_Payments_Advanced_API::request - Response: <?xml version="1.0"?>
+<ErrorResponse xmlns="http://mws.amazonservices.com/schema/OffAmazonPayments/2013-01-01">
+  <Error>
+    <Type>Sender</Type>
+    <Code>InvalidOrderReferenceId</Code>
+    <Message>The OrderReferenceId S00-0000000-0000000 is invalid.</Message>
+  </Error>
+  <RequestId>f89dfb4c-cd28-4063-95ac-b741c183fb0a</RequestId>
+</ErrorResponse>
+

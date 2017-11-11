@@ -1,0 +1,7 @@
+*** WooCommerce Amazon Fulfillment Changelog ***
+
+2017-08-22 - version 3.0.7
+* Add - First release on WooCommerce.com!
+* Removed legacy plugin license and updating mechanisms
+* Added support for WooCommerce updates via Woo header
+* Shifted Order-level rule checking to come after all individual order items have been checked for FBA fulfillment setting
